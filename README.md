@@ -1,0 +1,2 @@
+- Install packages
+- Start application

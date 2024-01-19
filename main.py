@@ -879,7 +879,6 @@ st.markdown(
         "<p style='text-align: center; color: #ED7D31'><strong><i>Intelligent Stock Trader</i></strong></p>",
         unsafe_allow_html=True)
 
-# Create an empty container for dynamic text
 welcome_text = st.empty()
 
 st.write('')
